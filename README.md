@@ -28,7 +28,7 @@
 <br>
 
 
-## :rocket: Technologies
+## :rocket: Tecnologias usadas
 
 Projeto desenvolvido com:
 
