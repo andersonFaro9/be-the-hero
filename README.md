@@ -1,27 +1,13 @@
-<h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src=".github/week-11.png" width="380px" />
-</h1>
+![week-11](https://user-images.githubusercontent.com/3237047/77461023-b5e4e400-6de0-11ea-9006-4a71383e906e.png)
+
+
 
 <h4 align="center"> 
 	:construction: 🚀 Semana OmniStack 11.0 tem sido maravilhoso.
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/SemanaOmnistack11?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielObara/SemanaOmnistack11">
-	
-  <a href="https://www.linkedin.com/in/danielobara/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
-  </a>
-
-  <a href="https://github.com/DanielObara/SemanaOmnistack11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/SemanaOmnistack11">
-  </a>
-
-  <a href="https://github.com/DanielObara/SemanaOmnistack11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/DanielObara/SemanaOmnistack11">
-  </a>
-
+  
+  
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
