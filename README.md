@@ -33,9 +33,9 @@
 Projeto desenvolvido com:
 
 - [Node.js](https://nodejs.org/en/) 
-- [React](https://reactjs.org) in coming :construction:
-- [React Native](https://facebook.github.io/react-native/) in coming :construction:
-- [Expo](https://expo.io/) in coming :construction:
+- [React](https://reactjs.org) em breve
+- [React Native](https://facebook.github.io/react-native/) em breve 
+- [Expo](https://expo.io/) em breve
 
 ## 💻 Projeto
 
