@@ -3,8 +3,14 @@
 
 
 <h4 align="center"> 
-	:construction: 🚀 Semana OmniStack 11.0 tem sido maravilhoso.
+	:construction: 🚀 Semana OmniStack 11.0 em desenvolvimento.
+	
 </h4>
+<h4 align="center"> 
+
+	Nessa quarentena: Mantenha sua fé em Deus, tire o "s" da "crise", crie e siga firme!!!
+</h4>
+
 <p align="center">
   
   
