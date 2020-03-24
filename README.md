@@ -18,11 +18,11 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">Licença</a>
 </p>
 
 <br>
@@ -30,29 +30,28 @@
 
 ## :rocket: Technologies
 
-This project was developed with the following technologies:
+Projeto desenvolvido com:
 
 - [Node.js](https://nodejs.org/en/) 
 - [React](https://reactjs.org) in coming :construction:
 - [React Native](https://facebook.github.io/react-native/) in coming :construction:
 - [Expo](https://expo.io/) in coming :construction:
 
-## 💻 Project
+## 💻 Projeto
 
-Be The Hero is a project that aims to connect people who are willing to help ONGs.
+Um projeto que visa ajudar ongs que ajudam pessoas.
+
 
 ## 🔖 Layout
 
 	:construction: 🚀 em construção... chegando lá!!
 
-## 🤔 How to contribute
+## 🤔 Como contribuir
 
-- Make a fork;
-- Create a branck with your feature: `git checkout -b my-feature`;
-- Commit changes: `git commit -m 'feat: My new feature'`;
-- Make a push to your branch: `git push origin my-feature`.
-
-After merging your receipt request to done, you can delete a branch from yours.
+- Faça um fork;
+- Crie um branck com sua "feature": `git checkout -b my-feature`;
+- Comitar mudanças: `git commit -m 'feat: My new feature'`;
+- Para fazer push de seu branch: `git push origin my-feature`.
 
 ## :memo: License
 
