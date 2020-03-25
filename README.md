@@ -33,7 +33,7 @@
 Projeto desenvolvido com:
 
 - [Node.js](https://nodejs.org/en/) 
-- [React](https://reactjs.org): em breve
+- [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/): em breve 
 - [Expo](https://expo.io/): em breve
 
