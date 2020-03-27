@@ -3,7 +3,7 @@
 
 
 <h4 align="center"> 
-	:construction: 🚀 Semana OmniStack 11.0 em desenvolvimento.
+	:construction: 🚀 Semana OmniStack 11.0 FINALIZADO.
 	
 </h4>
 <h4 align="center"> 
@@ -34,8 +34,8 @@ Projeto desenvolvido com:
 
 - [Node.js](https://nodejs.org/en/) 
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/): em breve 
-- [Expo](https://expo.io/): em breve
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ## 💻 Projeto
 
