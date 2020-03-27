@@ -3,7 +3,7 @@
 
 
 <h4 align="center"> 
-	:construction: 🚀 Semana OmniStack 11.0 FINALIZADO.
+	 🚀 Semana OmniStack 11.0 FINALIZADO.
 	
 </h4>
 <h4 align="center"> 
@@ -44,7 +44,7 @@ Um projeto que visa ajudar ongs que ajudam pessoas.
 
 ## 🔖 Layout
 
-	:construction: 🚀 em construção... chegando lá!!
+	:construction: 🚀 FINALIZADO!!
 
 ## 🤔 Como contribuir
 
