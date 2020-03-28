@@ -42,12 +42,15 @@ Projeto desenvolvido com:
 
 Um projeto que visa ajudar ongs que ajudam pessoas.
 
-Prints da web e mobile
+# Prints da web e mobile
 
 ![1](https://user-images.githubusercontent.com/3237047/77816268-35eca180-70a0-11ea-9f89-6355d5dfb7f2.png)
 ![2](https://user-images.githubusercontent.com/3237047/77816272-3dac4600-70a0-11ea-88df-feb0685ae7ac.png)
-![3](https://user-images.githubusercontent.com/3237047/77816276-4270fa00-70a0-11ea-9b64-a0876093ae14.png)
-![5](https://user-images.githubusercontent.com/3237047/77816278-44d35400-70a0-11ea-98bf-cf8cc6ddf2f9.png)
+
+
+![foto1](https://user-images.githubusercontent.com/3237047/77816687-5b2edf00-70a3-11ea-9070-95cd7ea402b0.png)
+![foto2](https://user-images.githubusercontent.com/3237047/77816689-5d913900-70a3-11ea-9882-99ed8def92a6.png)
+
 
 
 ## 🔖 Layout
