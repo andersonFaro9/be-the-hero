@@ -42,7 +42,7 @@ Projeto desenvolvido com:
 
 Um projeto que visa ajudar ongs que ajudam pessoas.
 
-### Prints da web e mobile
+### Prints mobile
 
 ![1](https://user-images.githubusercontent.com/3237047/77816268-35eca180-70a0-11ea-9f89-6355d5dfb7f2.png)
 ![2](https://user-images.githubusercontent.com/3237047/77816272-3dac4600-70a0-11ea-88df-feb0685ae7ac.png)
