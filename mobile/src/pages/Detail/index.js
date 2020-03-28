@@ -1,6 +1,6 @@
 import React from 'react';
 import { Feather } from '@expo/vector-icons'
-import { View, Text, Image, TouchableOpacity, Linking } from 'react-native'
+import { View, Text, Image, TouchableOpacity, Linking, FlatList } from 'react-native'
 import { useNavigation, useRoute } from '@react-navigation/native'
 import logoImg from '../../assets/logo.png'
 import styles from './styles'
@@ -31,7 +31,7 @@ export default function Detail() {
     }
 
     function sendWhatsapp() {
-        Linking.openURL(`whatsapp://send?phone=${incident.whatsapp}&text=${message}`)
+        Linking.openURL(`whatsapp://send?phone=55${incident.whatsapp}&text=${message}`)
     }
 
     return (
@@ -58,9 +58,8 @@ export default function Detail() {
 
             <View style={styles.contactBox}>
                 <Text style={styles.heroTitle}>Salve o dia!</Text>
-                <Text style={styles.heroTitle}>Seja o heroi desse caso.</Text>
 
-                <Text style={styles.heroDescription}>Entre em contato:</Text>
+                <Text style={styles.heroDescription}>Seja o herói!</Text>
 
                 <View style={styles.actions}>
                     <TouchableOpacity style={styles.action} onPress={sendWhatsapp}>
