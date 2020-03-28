@@ -8,7 +8,7 @@
 </h4>
 <h4 align="center"> 
 
-	Nessa quarentena: Mantenha sua fé em Deus, tire o "s" da "crise", crie e siga firme!!!
+	Mantenha sua fé em Deus, tira o "s" da "crise", crie e siga firme!!!
 </h4>
 
 <p align="center">
@@ -37,9 +37,20 @@ Projeto desenvolvido com:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
+
 ## 💻 Projeto
 
 Um projeto que visa ajudar ongs que ajudam pessoas.
+
+### Prints mobile
+
+![1](https://user-images.githubusercontent.com/3237047/77816268-35eca180-70a0-11ea-9f89-6355d5dfb7f2.png)
+![2](https://user-images.githubusercontent.com/3237047/77816272-3dac4600-70a0-11ea-88df-feb0685ae7ac.png)
+
+
+![foto1](https://user-images.githubusercontent.com/3237047/77816687-5b2edf00-70a3-11ea-9070-95cd7ea402b0.png)
+![foto2](https://user-images.githubusercontent.com/3237047/77816689-5d913900-70a3-11ea-9882-99ed8def92a6.png)
+
 
 
 ## 🔖 Layout
