@@ -27,16 +27,21 @@
 
 <br>
 
-
 ## :rocket: Tecnologias usadas
 
 Projeto desenvolvido com:
 
-- [Node.js](https://nodejs.org/en/) 
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
-
+📌 NodeJS
+📌 React
+📌 Eslint
+📌 Prettier
+📌 Styled-Components
+📌 Axios
+📌 CORS
+📌 Express
+📌 Knex
+📌 Sqlite3
+📌 Nodemon
 
 ## 💻 Projeto
 
