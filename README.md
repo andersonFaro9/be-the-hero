@@ -33,9 +33,6 @@ Projeto desenvolvido com:
 
 📌 NodeJS
 📌 React
-📌 Eslint
-📌 Prettier
-📌 Styled-Components
 📌 Axios
 📌 CORS
 📌 Express
