@@ -37,6 +37,7 @@ Projeto desenvolvido com:
 📌 CORS
 📌 Express
 📌 Knex
+📌 Jest
 📌 Sqlite3
 📌 Nodemon
 
