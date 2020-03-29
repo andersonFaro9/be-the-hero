@@ -49,20 +49,16 @@ routes.post("/ongs", celebrate({
     [Segments.BODY]: Joi.object().keys({
         name: Joi.string().required(),
         email: Joi.string().required().email(),
-        whatsapp: Joi.string().required().min(10).max(12),
+        whatsapp: Joi.string().required().min(10).max(11),
         city: Joi.string().required(),
         uf: Joi.string().required().length(2),
     })
 }), OngController.create);
 
+routes.delete('/incidents/:id', IncidentController.delete);
 
 
 
-routes.delete("/incidents/:id", celebrate({
-    [Segments.PARAMS]: Joi.object().keys({
-        id: Joi.number().required,
-    }),
-}), IncidentController.delete);
 
 
 
