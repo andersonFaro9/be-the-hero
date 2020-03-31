@@ -34,7 +34,7 @@ routes.post("/incidents", celebrate({
     [Segments.BODY]: Joi.object().keys({
         title: Joi.string().required(),
         description: Joi.string().required(),
-        value: Joi.number().required(),
+        value: Joi.string().required(),
     }),
 
     [Segments.HEADERS]: Joi.object({
@@ -63,4 +63,4 @@ routes.delete('/incidents/:id', IncidentController.delete);
 
 
 
-module.exports = routes;    
+module.exports = routes;

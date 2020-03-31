@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import { Link, useHistory } from "react-router-dom";
 import { FiLogIn } from "react-icons/fi";
 
-import heroesImg from "../../assets/heroes.png";
-import logoImg from "../../assets/logo.svg";
+import heroesImg from "../../assets/fundo.png";
+import logoImg from "../../assets/logo.png";
 import api from "../../services/api";
 
 import "./styles.css";
@@ -34,10 +34,10 @@ export default function Logon() {
                 <img src={logoImg} alt="Be The Hero" />
 
                 <form onSubmit={handleLogin}>
-                    <h1> Faça seu logon </h1>
+                    <h2> Faça seu login </h2>
 
                     <input
-                        placeholder="Sua ID"
+                        placeholder="Seu ID de identificação"
                         value={id}
                         onChange={e => setId(e.target.value)}
                     />

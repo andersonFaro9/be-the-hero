@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import './styles.css';
-import logoImg from '../../assets/logo.svg';
+import logoImg from "../../assets/logo.png";
 import { Link, useHistory } from 'react-router-dom';
 import { FiArrowLeft } from 'react-icons/fi';
 import api from '../../services/api';
@@ -47,7 +47,7 @@ export default function Register() {
                 <section>
                     <img src={logoImg} alt="Be The Hero" />
                     <h1>Cadastro</h1>
-                    <p>Faça seu cadastro, entre na plataforma e ajude pessoas a encontrarem os casos da sua ONG</p>
+                    <p>Faça o seu cadastro, entre na plataforma e facilite o aprendizado do aluno.</p>
                     <Link className="back-link" to="/">
                         <FiArrowLeft size={16} color="#E02041" />
                             Não tenho cadastro
@@ -55,11 +55,11 @@ export default function Register() {
                 </section>
                 <form onSubmit={handleRegister}>
 
-                    <input placeholder="Nome da Ong"
+                    <input placeholder="Nome do professor"
                         value={name}
                         onChange={e => setName(e.target.value)}
                     />
-                    <input type="email" placeholder="E-mail"
+                    <input type="email" placeholder="E-mail do professor"
 
                         value={email}
                         onChange={e => setEmail(e.target.value)}

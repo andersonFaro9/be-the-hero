@@ -6,7 +6,7 @@ import api from "../../services/api";
 
 import "./styles.css";
 
-import logoImg from "../../assets/logo.svg";
+import logoImg from "../../assets/logo.png";
 
 export default function NewIncident() {
     const [title, setTitle] = useState("");
@@ -42,11 +42,10 @@ export default function NewIncident() {
             <div className="content">
                 <section>
                     <img src={logoImg} alt="Be The Hero" />
-                    <h1>Cadastrar novo caso</h1>
+                    <h1>Cadastrar nova atividade</h1>
                     <p>
-                        Descreva o caso detalhadamente para encontrar um herói para resolver
-                        isso.
-          </p>
+                        Digite todos os campos ao lado para a atividade do aluno.
+                    </p>
 
                     <Link to="/" className="back-link">
                         <FiArrowLeft size={16} color="#e02041" />
@@ -56,17 +55,17 @@ export default function NewIncident() {
 
                 <form onSubmit={handleNewIncident}>
                     <input
-                        placeholder="Título do caso"
+                        placeholder="Título da atividade"
                         value={title}
                         onChange={e => setTitle(e.target.value)}
                     />
                     <textarea
-                        placeholder="Descrição"
+                        placeholder="Descrição da atividade"
                         value={description}
                         onChange={e => setDescription(e.target.value)}
                     />
                     <input
-                        placeholder="Valor em reais"
+                        placeholder="Link do vídeo"
                         value={value}
                         onChange={e => setValue(e.target.value)}
                     />

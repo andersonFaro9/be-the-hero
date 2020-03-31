@@ -10,7 +10,7 @@ export default function Detail() {
     const navigation = useNavigation()
     const route = useRoute()
     const incident = route.params.incident
-    const message = `Ola ${incident.name}, estou entrando em contato pois gostaria de ajudar no caso ${incident.title} com o valor de ${Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(incident.value)}`
+    const message = `Ola Professor ${incident.name}, estou entrando em contatao pelo: ${incident.title} de ${incident.value}`
 
 
 
@@ -46,14 +46,15 @@ export default function Detail() {
             </View>
 
             <View style={styles.incident}>
-                <Text style={[styles.incidentProperty, { marginTop: 0 }]}>ONG:</Text>
+                <Text style={[styles.incidentProperty, { marginTop: 0 }]}>  ATIVIDADE:</Text>
                 <Text style={styles.incidentValue}>{incident.name} de {incident.city}/{incident.uf}</Text>
 
-                <Text style={styles.incidentProperty}>CASO:</Text>
+                <Text style={styles.incidentProperty}>DESCRIÇÃO:</Text>
                 <Text style={styles.incidentValue}>{incident.title}</Text>
 
-                <Text style={styles.incidentProperty}>VALOR:</Text>
-                <Text style={styles.incidentValue}>{Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(incident.value)}</Text>
+                <Text style={styles.incidentProperty}>LINK DO VÍDEO:</Text>
+                <Text style={styles.incidentValue}>
+                    {incident.value}</Text>
             </View>
 
             <View style={styles.contactBox}>
