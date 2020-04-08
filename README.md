@@ -1,9 +1,11 @@
-![week-11](https://user-images.githubusercontent.com/3237047/77461023-b5e4e400-6de0-11ea-9006-4a71383e906e.png)
+![certificado_omnistack](https://user-images.githubusercontent.com/3237047/78772413-1a1eb080-7968-11ea-8ae3-e751092432fe.png)
+
 
 
 
 <h4 align="center"> 
 	 🚀 Semana OmniStack 11.0 FINALIZADO.
+	    Certificado comprovado emitido, obrigado Rocketseat.!!!
 	
 </h4>
 <h4 align="center"> 
