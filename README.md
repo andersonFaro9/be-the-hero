@@ -5,7 +5,7 @@
 
 <h4 align="center"> 
 	 🚀 Semana OmniStack 11.0 FINALIZADO.
-	    Certificado comprovado emitido, obrigado Rocketseat.!!!
+	    Certificado comprovado e emitido, obrigado Rocketseat.!!!
 	
 </h4>
 <h4 align="center"> 
